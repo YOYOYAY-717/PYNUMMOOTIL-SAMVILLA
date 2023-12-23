@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PYNUMMOOTIL SAMVILLA</title>
+
+    <style>
+   body {
+    background-color: #87CEEB; /* Light sky blue background color */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Ensure the body takes up the full height of the viewport */
+    margin: 0; /* Remove default margin */
+    text-align: center;
+    padding: 20px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 30px; /* Adjust the font size for paragraphs */
+}
+
+a {
+    display: block;
+    margin-bottom: 5px;
+    color: #0000FF; /* Set your preferred link color */
+    text-decoration: none;
+    font-size: 25px; /* Adjust the font size for links */
+}
+
+    </style>
+</head>
+<body>
+
+    <!-- Text box -->
+    <div>
+        <p>First, reach St. Thomas Residential School, Mukkola. After which, enter Perapoor road. In case you have problems reaching perapoor road, please click the below link.</p>
+        <a href="https://maps.app.goo.gl/3W7Vo8bmkPUDBhy6A" target="_blank">Perappoor Rd, Thiruvananthapuram, Kerala 695043</a>
+    </div>
+
+    <!-- Text box -->
+    <div>
+        <p>After reaching Perapoor Road, please click the below link.</p>
+        <a href="https://maps.app.goo.gl/Pxxe2QdDCTqw623WA" target="_blank">Pynummootil Samvilla, Kumbilvila Road, Thiruvananthapuram, Kerala 695043</a>
+    </div>
+
+</body>
+</html>
+
